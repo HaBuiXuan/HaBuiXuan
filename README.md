@@ -15,6 +15,7 @@ Welcome to my profile! I am a dedicated and experienced software developer with 
 - **AngularJS**
 - **jQuery AJAX**
 - **HTML**
+- **PHP**
 
 ### Back-End Development
 - **.NET**
@@ -24,6 +25,8 @@ Welcome to my profile! I am a dedicated and experienced software developer with 
 - **C#**
 - **SQL Server 2012**
 - **Python 3**
+- **Nodejs**
+- **PHP**
 
 ### Desktop Development
 - **Winforms**
